@@ -1,1 +1,10 @@
 bin/module-info.class
+bin/**
+**.class
+.classpath
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.idea/vcs.xml
+.idea/misc.xml
+.project
+.idea/**
