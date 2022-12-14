@@ -3,7 +3,11 @@ package batch_22_23;
 public class Arthematic {
     public static void main(String[] agr) {
         int a = 10;
-        int b = a++;
+        int b = a--; // prefix
+
+        // b=a b=10
+        // a=a-1=9
+
         // int b=++a;
         // int b=a--;
         // int b=--a;
